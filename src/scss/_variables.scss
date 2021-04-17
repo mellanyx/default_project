@@ -1,0 +1,42 @@
+$body-bg: #fff;
+
+$font-family-sans-serif: "Roboto", sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.5;
+
+$input-btn-focus-box-shadow: none;
+$input-btn-focus-width: 0;
+$btn-focus-box-shadow: none;
+$btn-focus-outline: none;
+
+$btn-focus-width: 0;
+
+$fa-font-path: '/assets/fonts';
+$grid-gutter-width: 24px;
+
+$container-max-widths: (
+        sm: 540px,
+        md: 720px,
+        lg: 100%,
+        xl: 1200px
+);
+
+$text-sm: 0.875rem;
+$text-xs: 0.75rem;
+$text-xxs: 0.625rem;
+$text-lg: 1.125rem;
+$text-xl: 1.25rem;
+
+$blue: #021AF3;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66D9b;
+$red: #C72621;
+$orange: #FFB800;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$primary: $red;
+$gray-600: #8D8B8B;
+$warning: #F8931F;

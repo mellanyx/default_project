@@ -1,0 +1,7 @@
+{
+  "require": {
+  },
+  "autoload": {
+    "files": ["classes/Api/DBClass.php"]
+  }
+}
